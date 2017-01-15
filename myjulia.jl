@@ -8,3 +8,9 @@ gui()
 
 
 w = x .% z
+
+
+# agora um comentario qualquer
+
+plot(w, z)
+gui()
