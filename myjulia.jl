@@ -5,3 +5,6 @@ y = x * 2
 z = x + y
 plot(x, z)
 gui()
+
+
+w = x .% z
